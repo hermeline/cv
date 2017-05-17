@@ -1,0 +1,14 @@
+body .container {
+  margin: 0;
+  padding: 0;
+}
+
+
+.top{
+  width: 1350px;
+  height: 1500px;
+  /*background-image: url("../img/banniere.jpeg");*/
+  /*background-repeat: no-repeat;
+  background-size: contain;*/
+  text-align: center;
+}
